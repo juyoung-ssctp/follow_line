@@ -1,6 +1,0 @@
-Invoking command in '/home/ju/camera_ws/build/usb_cam': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble:/home/ju/camera_ws/install /usr/bin/cmake /home/ju/camera_ws/src/usb_cam -DCMAKE_INSTALL_PREFIX=/home/ju/camera_ws/install/usb_cam
-Invoked command in '/home/ju/camera_ws/build/usb_cam' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble:/home/ju/camera_ws/install /usr/bin/cmake /home/ju/camera_ws/src/usb_cam -DCMAKE_INSTALL_PREFIX=/home/ju/camera_ws/install/usb_cam
-Invoking command in '/home/ju/camera_ws/build/usb_cam': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble:/home/ju/camera_ws/install /usr/bin/cmake --build /home/ju/camera_ws/build/usb_cam -- -j12 -l12
-Invoked command in '/home/ju/camera_ws/build/usb_cam' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble:/home/ju/camera_ws/install /usr/bin/cmake --build /home/ju/camera_ws/build/usb_cam -- -j12 -l12
-Invoking command in '/home/ju/camera_ws/build/usb_cam': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble:/home/ju/camera_ws/install /usr/bin/cmake --install /home/ju/camera_ws/build/usb_cam
-Invoked command in '/home/ju/camera_ws/build/usb_cam' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble:/home/ju/camera_ws/install /usr/bin/cmake --install /home/ju/camera_ws/build/usb_cam

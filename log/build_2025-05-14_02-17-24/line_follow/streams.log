@@ -1,0 +1,33 @@
+[0.448s] Invoking command in '/home/ju/camera_ws/src/line_follow': PYTHONPATH=/home/ju/camera_ws/build/line_follow/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ju/camera_ws/install/line_follow/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/line_follow build --build-base /home/ju/camera_ws/build/line_follow/build install --record /home/ju/camera_ws/build/line_follow/install.log --single-version-externally-managed install_data
+[0.574s] running egg_info
+[0.574s] creating ../../build/line_follow/line_follow.egg-info
+[0.582s] writing ../../build/line_follow/line_follow.egg-info/PKG-INFO
+[0.582s] writing dependency_links to ../../build/line_follow/line_follow.egg-info/dependency_links.txt
+[0.582s] writing entry points to ../../build/line_follow/line_follow.egg-info/entry_points.txt
+[0.582s] writing requirements to ../../build/line_follow/line_follow.egg-info/requires.txt
+[0.582s] writing top-level names to ../../build/line_follow/line_follow.egg-info/top_level.txt
+[0.582s] writing manifest file '../../build/line_follow/line_follow.egg-info/SOURCES.txt'
+[0.597s] reading manifest file '../../build/line_follow/line_follow.egg-info/SOURCES.txt'
+[0.597s] writing manifest file '../../build/line_follow/line_follow.egg-info/SOURCES.txt'
+[0.598s] running build
+[0.598s] running build_py
+[0.598s] creating /home/ju/camera_ws/build/line_follow/build
+[0.598s] creating /home/ju/camera_ws/build/line_follow/build/lib
+[0.598s] creating /home/ju/camera_ws/build/line_follow/build/lib/line_follow
+[0.598s] copying line_follow/init.py -> /home/ju/camera_ws/build/line_follow/build/lib/line_follow
+[0.598s] copying line_follow/line_follow.py -> /home/ju/camera_ws/build/line_follow/build/lib/line_follow
+[0.598s] running install
+[0.601s] running install_lib
+[0.609s] creating /home/ju/camera_ws/install/line_follow/lib/python3.10/site-packages/line_follow
+[0.609s] copying /home/ju/camera_ws/build/line_follow/build/lib/line_follow/init.py -> /home/ju/camera_ws/install/line_follow/lib/python3.10/site-packages/line_follow
+[0.609s] copying /home/ju/camera_ws/build/line_follow/build/lib/line_follow/line_follow.py -> /home/ju/camera_ws/install/line_follow/lib/python3.10/site-packages/line_follow
+[0.609s] byte-compiling /home/ju/camera_ws/install/line_follow/lib/python3.10/site-packages/line_follow/init.py to init.cpython-310.pyc
+[0.609s] byte-compiling /home/ju/camera_ws/install/line_follow/lib/python3.10/site-packages/line_follow/line_follow.py to line_follow.cpython-310.pyc
+[0.610s] running install_data
+[0.610s] copying package.xml -> /home/ju/camera_ws/install/line_follow/share/line_follow
+[0.610s] running install_egg_info
+[0.618s] Copying ../../build/line_follow/line_follow.egg-info to /home/ju/camera_ws/install/line_follow/lib/python3.10/site-packages/line_follow-0.0.1-py3.10.egg-info
+[0.619s] running install_scripts
+[0.705s] Installing color_line_follower_node script to /home/ju/camera_ws/install/line_follow/bin
+[0.705s] writing list of installed files to '/home/ju/camera_ws/build/line_follow/install.log'
+[0.723s] Invoked command in '/home/ju/camera_ws/src/line_follow' returned '0': PYTHONPATH=/home/ju/camera_ws/build/line_follow/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ju/camera_ws/install/line_follow/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/line_follow build --build-base /home/ju/camera_ws/build/line_follow/build install --record /home/ju/camera_ws/build/line_follow/install.log --single-version-externally-managed install_data

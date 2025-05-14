@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/line_follow/line_follow.egg-info
+writing ../../build/line_follow/line_follow.egg-info/PKG-INFO
+writing dependency_links to ../../build/line_follow/line_follow.egg-info/dependency_links.txt
+writing entry points to ../../build/line_follow/line_follow.egg-info/entry_points.txt
+writing requirements to ../../build/line_follow/line_follow.egg-info/requires.txt
+writing top-level names to ../../build/line_follow/line_follow.egg-info/top_level.txt
+writing manifest file '../../build/line_follow/line_follow.egg-info/SOURCES.txt'
+reading manifest file '../../build/line_follow/line_follow.egg-info/SOURCES.txt'
+writing manifest file '../../build/line_follow/line_follow.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ju/camera_ws/build/line_follow/build
+creating /home/ju/camera_ws/build/line_follow/build/lib
+creating /home/ju/camera_ws/build/line_follow/build/lib/line_follow
+copying line_follow/init.py -> /home/ju/camera_ws/build/line_follow/build/lib/line_follow
+copying line_follow/line_follow.py -> /home/ju/camera_ws/build/line_follow/build/lib/line_follow
+running install
+running install_lib
+creating /home/ju/camera_ws/install/line_follow/lib/python3.10/site-packages/line_follow
+copying /home/ju/camera_ws/build/line_follow/build/lib/line_follow/init.py -> /home/ju/camera_ws/install/line_follow/lib/python3.10/site-packages/line_follow
+copying /home/ju/camera_ws/build/line_follow/build/lib/line_follow/line_follow.py -> /home/ju/camera_ws/install/line_follow/lib/python3.10/site-packages/line_follow
+byte-compiling /home/ju/camera_ws/install/line_follow/lib/python3.10/site-packages/line_follow/init.py to init.cpython-310.pyc
+byte-compiling /home/ju/camera_ws/install/line_follow/lib/python3.10/site-packages/line_follow/line_follow.py to line_follow.cpython-310.pyc
+running install_data
+copying package.xml -> /home/ju/camera_ws/install/line_follow/share/line_follow
+running install_egg_info
+Copying ../../build/line_follow/line_follow.egg-info to /home/ju/camera_ws/install/line_follow/lib/python3.10/site-packages/line_follow-0.0.1-py3.10.egg-info
+running install_scripts
+Installing color_line_follower_node script to /home/ju/camera_ws/install/line_follow/bin
+writing list of installed files to '/home/ju/camera_ws/build/line_follow/install.log'
